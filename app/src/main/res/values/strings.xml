@@ -8,7 +8,7 @@
     <string name="f">F</string>
     <string name="hint">T / F</string>
     <string name="submit">SUBMIT</string>
-    <string name="fill_in_all">Please fill in all answers before confirming</string>
+    <string name="fill_in_all">Please fill in all answers before submitting</string>
     <string name="invalid_input">Please only submit a T or a F</string>
     <string name="correct">Correct!</string>
     <string name="incorrect">Incorrect!</string>
